@@ -1,1 +1,1 @@
-# odin-recipes
+This project will help me to learn making basic HTML pages and will help me to remember GIT commands
