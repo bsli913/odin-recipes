@@ -1,0 +1,31 @@
+.container {
+    padding: 10px;
+    background-color: rgb(19, 19, 19);
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    width: 30%;
+    margin-bottom: 0;
+    margin: auto;
+    color:aliceblue;
+}
+
+h1, h3, h2, ul {
+    margin: 0 auto;
+    display: table;
+}
+h1{
+    color:aliceblue;
+}
+li::marker {
+    color: azure;
+}
+a {
+    text-decoration: none;
+    color:bisque
+}
+
+img {
+    width: 300px;
+    margin: 0 auto;
+    display: table;
+
+}
